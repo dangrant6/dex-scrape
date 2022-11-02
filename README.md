@@ -1,1 +1,1 @@
-# dex-scrape
+# scrape seribii dex for poke info
